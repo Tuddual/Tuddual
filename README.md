@@ -22,5 +22,5 @@
 
 </details>
 
-[twitter]: https://twitter.com/Tudcoding
+[twitter]: https://twitter.com/Tuddual
 [linkedin]: https://linkedin.com/in/tudual-quinio
