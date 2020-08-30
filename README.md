@@ -8,8 +8,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Twitter logo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="LinkedIn logo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Stackoverflow logo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/stackoverflow.svg" />][stackoverflow]
 
 </br>
 
@@ -24,3 +25,4 @@
 
 [twitter]: https://twitter.com/Tuddual
 [linkedin]: https://linkedin.com/in/tudual-quinio
+[stackoverflow]: https://stackoverflow.com/users/14175103/tuddual
