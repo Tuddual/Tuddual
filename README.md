@@ -1,6 +1,5 @@
 ### Hi there, I am Tuddual 👋
 
-- 🔭 I’m currently working on a website (sorry it's a private project)
 - 🌱 I’m currently learning at Polytech Nantes
 - 💬 You can ask me about anything
 - 📫 How to reach me: quinio.tudual@gmail.com
