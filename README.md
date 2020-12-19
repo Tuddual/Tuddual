@@ -1,8 +1,7 @@
 ### Hi there, I am Tuddual 👋
 
 - 🌱 I’m currently learning at Polytech Nantes
-- 💬 You can ask me about anything
-- 📫 How to reach me: quinio.tudual@gmail.com
+- 📫 How to reach me: tudual.quinio@protonmail.com
 - 😄 Pronouns: he/him
 
 ### Connect with me:
