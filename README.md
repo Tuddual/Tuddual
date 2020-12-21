@@ -13,3 +13,7 @@
 [twitter]: https://twitter.com/Tuddual
 [linkedin]: https://linkedin.com/in/tudual-quinio
 [stackoverflow]: https://stackoverflow.com/users/14175103/tuddual
+
+### My GitHub Stats
+
+<img align="left" alt="Tudual's github stats" src="https://github-readme-stats.vercel.app/api?username=Tuddual&show_icons=true&count_private=true&theme=algolia&include_all_commits=true" />
