@@ -18,8 +18,8 @@
                 </a>
             </ul>
         </li>
-        <li> My GitHub Stats
-            <img align="left" alt="Tudual's github stats" src="https://github-readme-stats.vercel.app/api?username=Tuddual&show_icons=true&count_private=true&theme=algolia&include_all_commits=true" />
-        </li>
     </ul>
+</p>
+<p>
+    <img align="left" alt="Tudual's github stats" src="https://github-readme-stats.vercel.app/api?username=Tuddual&show_icons=true&count_private=true&theme=algolia&include_all_commits=true" />
 </p>
