@@ -1,10 +1,4 @@
-<p>
-<ul>
-    Hi there, I am tud/tuddual 👋
-    <ul>
-        <li>🌱 I’m currently learning at Polytech Nantes </li>
-        <li>📫 How to reach me: tudual.quinio@protonmail.com </li>
-        <li>😄 Pronouns: he/him</li>
-    </ul>
-</ul>
-</p>
+Hi there, I am Tudual (tud/tuddual) Quinio.
+
+I am student currently learning IT at Polytech Nantes.
+You can reach me at:tudual.quinio@protonmail.com
